@@ -1,0 +1,9 @@
+{
+	"id": "sole-pane",
+	"name": "Sole Pane",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "Close every split except the focused one, keeping all of its tabs, like Vim's Ctrl+W o.",
+	"author": "yuki",
+	"isDesktopOnly": false
+}
